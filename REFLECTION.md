@@ -1,5 +1,4 @@
 # Reflection: Learning About Benchmarking With AI
-(Outline. Rewrite each section in your own words and use your real prompts.)
 
 ## How I approached the topic
 - Starting question: c vs python speed, how is it different?
