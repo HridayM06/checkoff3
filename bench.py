@@ -1,4 +1,3 @@
-# Linear + binary search benchmark. Run: python3 bench.py
 import time, bisect
 def linear(a, x):
     for i in range(len(a)):
