@@ -37,3 +37,4 @@ Both print CSV. Timings vary by machine, so rerun them.
 ## Resources
 - Python docs: `time.perf_counter` (https://docs.python.org/3/library/time.html#time.perf_counter) and `bisect` (https://docs.python.org/3/library/bisect.html)
 - GCC optimization options (-O2) and `clock_gettime` man page
+- Chat with AI: https://share.gemini.google/hFNfwRp5rmtN
