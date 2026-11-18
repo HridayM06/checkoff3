@@ -32,7 +32,7 @@ Both print CSV. Timings vary by machine, so rerun them.
 - C's speed probably includes compiler vectorization at -O2 (not verified).
 
 ## Files
-`bench.c`, `bench.py`, slides (export from the deck as PDF or PPTX into this folder), `REFLECTION.md`.
+`bench.c`, `bench.py', `REFLECTION.md`.
 
 ## Resources
 - Python docs: `time.perf_counter` (https://docs.python.org/3/library/time.html#time.perf_counter) and `bisect` (https://docs.python.org/3/library/bisect.html)
