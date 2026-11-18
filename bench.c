@@ -1,4 +1,3 @@
-// Linear + binary search benchmark. Build: gcc -O2 bench.c -o bench_c
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
